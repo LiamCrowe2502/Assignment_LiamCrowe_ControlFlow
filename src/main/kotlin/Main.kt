@@ -102,6 +102,6 @@ fun stringContains(str : String){
 
     //Otherwise print the string and say it doesn't contain A, B or C.
     else {
-        println("${str} doesnt contain A, B, or C" + "\n")
+        println("${str} doesn't contain A, B, or C" + "\n")
     }
 }
