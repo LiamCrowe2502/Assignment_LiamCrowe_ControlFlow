@@ -26,7 +26,7 @@ fun minimumOf(number1: Long, number2: Long){
     }
     //  if number1 is greater than or equal to number2, print a message letting the user know that.
     if(number1 >= number2) {
-        println("${number1} is greter than or equal t0 ${number2}")
+        println("${number1} is greater than or equal t0 ${number2}")
     }
 }
 
